@@ -288,23 +288,23 @@ section {
     color: white;
   }
 
-  .contact-info h3 {
+.contact-info h3 {
       color: #fce138;
       font-size: 32px;
   }
 
-  .contact-info p, .contact-info address {
+.contact-info p, .contact-info address {
       margin: 20px 0;
       line-height: 1.5;
       font-size: 16px;
       font-style: normal;
   }
 
-  .contact-info a {
+.contact-info a {
       color: #fce138;
   }
 
-  .contact-form input, .contact-form textarea {
+.contact-form input, .contact-form textarea {
       border: 1px solid #024e76;
       display: block;
       padding: 7px 15px;
@@ -315,7 +315,7 @@ section {
       margin-top: 5px;
   }
 
-  .contact-form button {
+.contact-form button {
       width: 100%;
       border: none;
       background: #fce138;
@@ -326,7 +326,7 @@ section {
   }
   /* reach out style end*/
 
-  .text-left {
+.text-left {
     text-align: left;
 }
 
@@ -340,21 +340,117 @@ section {
 
 /* media query for smaller desktop screens */
 @media screen and (max-width: 980px) {
+    .section-title {
+        width: 80%;
+    }
+
+    .trainer {
+        flex: 0 70%;
+    }
+
+    .contact-info iframe {
+        flex: 1 100%;
+    }
+
+    .hero-cta, .hero-form {
+        width: 100%;
+    }
+
+    .hero-cta {
+        text-align: center;
+    }
+
+    header {
+        padding-bottom: 0;
+        justify-content: center;
+    }
+        
+    header h1 {
+            width: 100%;
+            text-align: center;
+    }
+    
+    header nav ul {
+        margin-top: 20px;
+        width: 100%;
+        justify-content: center;
+    }
    
+    header nav ul li a {
+        font-size: 20px;
+    }
+
+    footer h2, footer div {
+        text-align: center;
+        width: 100%;
+    }
+}    
         /* this applied to any screen smaller than 980px */
-}
+
 
 /* media query for tablets and smaller */
 @media screen and (max-width: 768px) {
-    
+    section {
+        padding: 30px 15px;
+    }
+
+    .step h3 {
+        flex: 1 100%;
+        text-align: center;
+    }
+
+    .step-info {
+        flex: 2 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .step-img {
+        flex: 0 32%;
+        margin-right: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .step-text {
+        flex: 100%;
+    }
+}    
         /* for screens between 768px and 575px */ 
-}
+
 
 /* media quesry for mobile phones and smaller */
 @media screen and (max-width: 575px) {
-    
+    .hero-form button {
+        width: 100%;
+    }
+
+    .section-title {
+        width: 95%;
+    }
+
+    .intro p {
+        width: 100%;
+    }
+
+    .trainer {
+        flex: 0 100%;
+    }
+
+    .contact-info {
+        text-align: center;
+    }
+
+    .contact-info > * {
+        flex: 0 100%;
+    }
+
+    .contact-form {
+        order: 3;
+    }
+}   
         /* for screens smaller that 575px */
-}
+
   
 
 

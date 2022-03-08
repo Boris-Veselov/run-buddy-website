@@ -12,6 +12,8 @@ https://lernantino.github.io/run-buddy/
 
 [1.png](https://postimg.cc/qhkCTTrW)
 
+<a href='https://postimg.cc/qhkCTTrW' target='_blank'><img src='https://i.postimg.cc/qhkCTTrW/1.png' border='0' alt='1'/></a>
+
 ## Contribution
 Made with ❤️ by [your name]
 

@@ -8,13 +8,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://boris-veselov.github.io/run-buddy-website/
 
-[1.png](https://postimg.cc/qhkCTTrW)
 
-<a href='https://postimg.cc/qhkCTTrW' target='_blank'><img src='https://i.postimg.cc/qhkCTTrW/1.png' border='0' alt='1'/></a>
 
 ## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
+Made by Boris Veselov

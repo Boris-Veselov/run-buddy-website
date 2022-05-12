@@ -10,7 +10,5 @@ A website that offers fitness training services.
 ## Website
 https://boris-veselov.github.io/run-buddy-website/
 
-
-
 ## Contribution
 Made by Boris Veselov

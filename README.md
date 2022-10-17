@@ -8,8 +8,6 @@ Rub Buddy
 * [Technologies](#technologies)
 * [Preview](#preview)
 * [Website-link](#website-link)
-* [Installation](#installation)
-* [Usage](#usage)
 * [Contribution](#contribution)
 * [license](#license)
 * [Contact](#contact)

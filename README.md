@@ -1,18 +1,45 @@
-# Run Buddy, Inc
+## Title 
 
-## Purpose
+Rub Buddy
+  
+## Table of Contents:
+  
+* [Description](#description)
+* [Technologies](#technologies)
+* [Preview](#preview)
+* [Website-link](#website-link)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [license](#license)
+* [Contact](#contact)
+
+## Description
 A website that offers fitness training services. 
 
-## Built With
+## Technologies
+
 * HTML
 * CSS
 
-## Screenshot
+## Preview
+
 ![screenshot](https://user-images.githubusercontent.com/96749114/168154465-9c35d52e-aca0-47e7-9d79-027689ec7128.jpg)
 
 
-## Website
+## Website-link
+
 https://boris-veselov.github.io/run-buddy-website/
 
 ## Contribution
-Made by Boris Veselov
+
+Boris Veselov
+
+## License
+  
+MIT license
+
+## Contact
+
+borisveselov@yahoo.com
+github.com/boris-veselov
